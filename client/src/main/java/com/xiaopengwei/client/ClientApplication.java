@@ -1,0 +1,1 @@
+package com.xiaopengwei.client;import org.springframework.boot.SpringApplication;import org.springframework.boot.autoconfigure.SpringBootApplication;/** * @author Xiao pengwei * @since 2019-04-02 */@SpringBootApplicationpublic class ClientApplication {    public static void main(String[] args) {        SpringApplication.run(ClientApplication.class, args);    }}
