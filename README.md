@@ -1,6 +1,12 @@
 # springboot-admin
 springboot-admin 多模块项目, 父模块监控到子模块下线，给父模块设置的邮箱发送邮件
 
+### 快速搭建
+
+```
+git clone https://github.com/xpwi/spring-springmvc-mybatis.git
+```
+
 ### 功能介绍
 
 （1）父模块监控到子模块下线，给父模块设置的邮箱发送邮件
